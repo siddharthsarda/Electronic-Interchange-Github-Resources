@@ -86,7 +86,7 @@ JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-t
 - [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
 
 ## Public EDI References
-- [EDI Reference](https://www.stedi.com/edi) - Free online viewer for all releases of X12 specifications
+- [EDI Reference](https://www.stedi.com/edi) - Free online viewer for all releases of X12 specifications.
 
 
 ## Syntax Highlighters
